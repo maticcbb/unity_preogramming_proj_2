@@ -1,14 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ba51fd-3a29-41cd-99fb-97dcae94589d" name="Default Changelist" comment="" />
+    <list default="true" id="99ba51fd-3a29-41cd-99fb-97dcae94589d" name="Default Changelist" comment="Change animalIndex from static to random range number">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype_2/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype_2/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animal_Horse_Black.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Animal_Horse_Black.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animal_Moose.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Animal_Moose.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Dog_Beagle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Dog_Beagle.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/e72d7f-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/e72d7f-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/4671d3-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/4671d3-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/77/77d03e0c8f4bae640bd8ec9ad8fbe67e" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/77/77d03e0c8f4bae640bd8ec9ad8fbe67e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/77/77d03e0c8f4bae640bd8ec9ad8fbe67e.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/77/77d03e0c8f4bae640bd8ec9ad8fbe67e.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c0/c01be23faae75ed499d601854e5eaeea" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c0/c01be23faae75ed499d601854e5eaeea" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c0/c01be23faae75ed499d601854e5eaeea.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c0/c01be23faae75ed499d601854e5eaeea.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/cc/cc87b0eb261bd404f8132111411b8728" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/cc/cc87b0eb261bd404f8132111411b8728" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d5/d5ca55003c4153d408bfa9c6e0a68443" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d5/d5ca55003c4153d408bfa9c6e0a68443" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d5/d5ca55003c4153d408bfa9c6e0a68443.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d5/d5ca55003c4153d408bfa9c6e0a68443.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/mmiel/Unity Projects/Prototype_2/Assets/Prefabs/Dog_Beagle.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/mmiel/Unity Projects/Prototype_2/Assets/Scrpits/SpawnManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scrpits/MoveForward.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/mmiel/Unity Projects/Prototype_2/Assets/Prefabs/Animal_Moose.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/mmiel/Unity Projects/Prototype_2/Assets/Prefabs/Animal_Horse_Black.prefab" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -21,11 +69,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1kjmwK6gvfYm2vGBG0XZFHIw1W5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -35,6 +87,8 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -65,8 +119,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606222616221</updated>
-      <workItem from="1606222619181" duration="4360000" />
+      <workItem from="1606222619181" duration="5259000" />
+      <workItem from="1606309414487" duration="1648000" />
     </task>
+    <task id="LOCAL-00001" summary="Add .gitignore file with directories">
+      <created>1606313788405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606313788405</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change animalIndex from static to random range number">
+      <created>1606313891190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606313891190</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,13 +144,40 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add .gitignore file with directories" />
+    <MESSAGE value="Change animalIndex from static to random range number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change animalIndex from static to random range number" />
   </component>
   <component name="WindowStateProjectService">
     <state x="764" y="194" key="RiderGenerateDialog" timestamp="1606222858997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="764" y="194" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606222858997" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1606308462550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606308462550" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606313896628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606313896628" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606313918851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606313918851" />
   </component>
 </project>
